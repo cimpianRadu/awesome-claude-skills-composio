@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [Vibe Market](https://vibe-market.ing/skills) - Directory of Claude Code skills for marketing workflows (SEO, content, social), alongside the marketing MCP servers they connect to
 
 ### Inspiration & Use Cases
 
